@@ -1,0 +1,71 @@
+body
+{
+    background: url("../images/gymop.png") no-repeat center center fixed;
+    background-size: cover;
+}
+i
+{
+    font-size: 100px;
+}
+
+.crimson-text {
+    color: #E07C24;
+    font-size: 100px;
+ }
+ .main
+ {
+     color: #66AD47;
+ }
+h1
+{
+    font-family: 'Anton', sans-serif;
+    color:#46B2E0;
+    text-align: center;
+    
+}
+h2
+{
+    font-family: 'Cinzel', serif;
+    color: #F7CD2E;
+    text-align: center;
+}
+.image-div
+{
+    margin: 0 auto;
+    margin-left: 50px;
+    margin-right: 80px;
+    /* background-color: white;  */
+    margin-top: 60px;
+}
+
+ .marker-font
+ {
+    font-family: 'Satisfy', cursive;
+    color: #F7CD2E;
+ }
+ img
+{
+    width: 5em;
+}
+button
+{
+    border-radius: 1em;
+    font-size: 1em;
+    padding: 3px;
+    background: #4DD637;
+    color: white;
+    text-align: center;
+    
+
+}
+.sub-div
+{
+    margin: 0 auto;
+    margin-left: 85px;
+    margin-right: 50px;
+    /* background-color: white;  */
+    /* margin-top: 100px; */
+    /* opacity: 0.7; */
+    border-radius: 10px;
+    opacity: 1;
+}
